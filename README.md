@@ -22,13 +22,23 @@ Esta é uma tradução do Manifesto Ágil para Desenvolvimento de Doftware (Mani
 
 ## Os 12 princípios do Manifesto Ágil
 
+Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvolvimento de software, o manifetos propõe 12 princípios a serem seguidos:
+
 ### 1) Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+> Nossa maior prioridade é satisfazer o cliente através da entrega antecipada e contínua de software com valor. Ou seja, entregar contínuamente software funcional e com valor agregado.
 
 ### 2) Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
+> Mudanças de requisitos são bem-vindas, mesmo no final do desenvolvimento, pois processos ágeis estão prontos para receber mudanças que geram vantagem competitiva para o cliente.
+
 ### 3) Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
+> Entregar software funcionando com frequência, desde de um prazo de duas semanas até dois meses, mas de preferência no menor tempo possível.
+
 ### 4) Business people and developers must work together daily throughout the project.
+
+> Empresários e desenvolvedores devem trabalhar juntos diariamente durante o projeto.
 
 ### 5) Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 

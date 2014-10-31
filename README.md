@@ -30,15 +30,15 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 1) Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
-> Nossa maior prioridade é satisfazer o cliente através da entrega antecipada e contínua de software com valor. Ou seja, entregar contínuamente software funcional e com valor agregado.
+> Nossa maior prioridade é satisfazer o cliente através da entrega antecipada e contínua de software com valor. Ou seja, entregar contínuamente software funcional e com valor agregado. Entregar rapidamente pequenos lotes de funcionalidades é mais importante para o cliente do quê receber uma grande funcionalidade após um grande período de tempo, colocando em risco do produto não atender o "time-to-market".
 
 #### 2) Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
-> Mudanças de requisitos são bem-vindas, mesmo no final do desenvolvimento, pois processos ágeis estão prontos para receber mudanças que geram vantagem competitiva para o cliente.
+> Mudanças de requisitos são bem-vindas, mesmo no final do desenvolvimento, pois processos ágeis estão prontos para receber mudanças que geram vantagem competitiva para o cliente. É normal (e muito comum para funcionalidades, com prazos longos) receberem alterações devido às modificações do mercado, do negócio do cliente e diversos fatores externos. Reforçamos que o software deve estar pronto para mudanças.
 
 #### 3) Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
-> Entregar software funcionando com frequência, desde de um prazo de duas semanas até dois meses, mas de preferência no menor tempo possível.
+> Entregar software funcionando com frequência, desde poucas semanas até poucos meses, mas de preferência no menor tempo possível. Software entregue é igual valor agregado para o cliente, e nossa missão como desenvolvedores é entregar valor para o cliente no menor tempo possível.
 
 #### 4) Business people and developers must work together daily throughout the project.
 
@@ -70,7 +70,7 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 12) At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-##### Fontes:
+##### Referências:
 
 * [Valores do Manifesto Ágil](http://agilemanifesto.org/)
 * [Os 12 princípios do Manifesto Ágil](http://agilemanifesto.org/principles.html)

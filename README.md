@@ -7,7 +7,7 @@ Esta é uma tradução em português com comentários a respeito do Manifesto Á
 
 #### **Individuals and interactions** *over processes and tools*: 
 
-> Indivíduos e interações tem mais valor que processos e ferramentas. A valoriazação das pessoas bem como o convívio saudável entre elas é fundamental para gerar um ambiente agradável, produtivo e motivador. Com um bom ambiente e motivação certa, pessoas produzem mais e melhor. Não esqueça que ferramentas e processos são feitos por pessoas.
+> Indivíduos e interações tem mais valor que processos e ferramentas. A valorização das pessoas bem como o convívio saudável entre elas é fundamental para gerar um ambiente agradável, produtivo e motivador. Com um bom ambiente e a motivação certa, pessoas produzem mais e melhor. Não esqueça que ferramentas e processos são feitos por pessoas.
 
 #### **Working software** *over comprehensive documentation*: 
 
@@ -42,23 +42,23 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 4) Business people and developers must work together daily throughout the project.
 
-> Empresários e desenvolvedores devem trabalhar juntos diariamente durante o projeto.
+> Empresários e desenvolvedores devem trabalhar juntos diariamente durante o projeto. Grande parte do retrabalho no desenvolvimento de software é ocasionado por ruídos na comunicação entre o cliente/empresário e o desenvolvedor. Isto ocorre, porque muitas empresas possuem uma pessoas que coleta os requisitos, desenha a solução e passa a execução para o desenvolvedor. Porém, o desenvolvedor acaba não percebendo o valor para o cliente, muitas vezes entregando algo que não atende a necessidade plenamente. Quanto mais íntima for a relção do empresário/cliente com o desenvolvedor, maior o conhecimento do negócio por parte do desenvolvedor e maior a percepção das limitações do desenvolvimento por parte do empresário/cliente. Esta aproximação possibilita que uma solução mais enxuta e de valor seja entregue de forma rápida.
 
 #### 5) Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 
-> Crie projetos com indivíduos motivados. Dê a eles o ambiente e suporte que precisam, e confie neles para entregar o trabalho.
+> Crie projetos com indivíduos motivados. Dê a eles o ambiente e suporte que precisam, e confie neles para entregar o trabalho. Pessoas desmotivadas fazer o que devem, não o seu melhor. Dê motivação para as pessoas e terá a melhor equipe que você pode ter!
 
 #### 6) The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
-> O método mais eficiente e eficaz de transmitir informações para uma equipe de desenvolvimento é a conversa cara-a-cara.
+> O método mais eficiente e eficaz de transmitir informações para uma equipe de desenvolvimento é a conversa cara-a-cara. Evite e-mails e telefonemas sempre que possível, quando asegurar que uma informação precisa ser transmitida com clareza. Utilize e-mails para formalizar/registrar informações, mas nunca confie neles como uma garantia do recebimento.
 
 #### 7) Working software is the primary measure of progress.
 
-> Software funcionando é a principal medida de progresso.
+> Software funcionando é a principal medida de progresso. Leia-se como "software escrito com qualidade" funcionando. A melhor forma de saber se nosso produto está dando certo é lançar um MVP, ou lançar pequenas features.
 
 #### 8) Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
-> Processos ágeis geram desenvolvimento sustentável. Os invesidores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante sempre.
+> Processos ágeis geram desenvolvimento sustentável. Os invesidores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante sempre. O processo ágil, promove a interação entre todos os envolvidos, pois as partes se tornam interdependentes.
 
 #### 9) Continuous attention to technical excellence and good design enhances agility.
 

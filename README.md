@@ -1,7 +1,7 @@
 Manifesto Ágil (Agile Manifesto)
 ==============
 
-Esta é uma tradução em português com comentários a respeito do Manifesto Ágil para Desenvolvimento de Software (Manifesto for Agile Software Development). O Manifesto Ágil vem para mostrar melhores maneiras de desenvolver software, para isto, se apoia nos seguintes valores:
+Esta é uma tradução em português, com comentários a respeito do Manifesto Ágil para Desenvolvimento de Software (Manifesto for Agile Software Development). O Manifesto Ágil vem para mostrar melhores maneiras de desenvolver software, para isto, se apoia nos seguintes valores:
 
 ## Os valores do Manifesto Ágil
 

@@ -5,6 +5,8 @@ Esta é uma tradução em português com comentários a respeito do Manifesto Á
 
 ## Os valores do Manifesto Ágil
 
+![valores do manifesto ágil](http://www.getzcope.com/blog/wp-content/uploads/2009/10/Core-Values2.png)
+
 #### **Individuals and interactions** *over processes and tools*: 
 
 > Indivíduos e interações tem mais valor que processos e ferramentas. A valorização das pessoas bem como o convívio saudável entre elas é fundamental para gerar um ambiente agradável, produtivo e motivador. Com um bom ambiente e a motivação certa, pessoas produzem mais e melhor. Não esqueça que ferramentas e processos são feitos por pessoas.

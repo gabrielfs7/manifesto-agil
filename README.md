@@ -73,13 +73,19 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 #### 9) Continuous attention to technical excellence and good design enhances agility.
 
 > Dedicação contínua à excelência técnica e bom design aumenta a agilidade. 
-  Quanto melhor for a arquitetura e qualidade do código, mais preparado o software estará para respoder à mudanças. Contruir um software apenas pensando que ele "está funcionando" não garante que o mesmo está preaparado para as variações de mercado/requisitos.
+  Quanto melhor for a arquitetura e qualidade do código, mais preparado o software estará para respoder à mudanças. Construir um software apenas pensando que ele "está funcionando" não garante que o mesmo está preparado para as variações de mercado/requisitos.
 
 #### 10) Simplicity--the art of maximizing the amount of work not done--is essential.
 
+> Simplicidade - a arte de maximizar a quantidade de trabalho não feito - é essencial. O software agregar valor no menor tempo possível, para isso deve ter entregar rápidas e simples. Perder tempo tentando prever ou impor necessidades inexistentes gera trabalho desnecessário e com risco de nunca ser utilizado.
+
 #### 11) The best architectures, requirements, and designs emerge from self-organizing teams.
 
+> As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizadas. Equipes que precisam de cobranças constantes simplesmente são ociosas quando não há cobrança, ou seja, não são auto-suficientes. Criar uma cultura de responsabilidade pessoal e coletiva permite que a equipe e os indivíduos se auto-gerenciem, desligando a necessidade de uma gestão autocrática e criando um comportamento de melhoria contínua.
+
 #### 12) At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+> Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz, em seguida, altera seu comportamento isto. Precisamos monitorar e descobrir foram nossas falhas e acertos, para sabermos que tipo de comportamento precisamos manter ou eliminar, buscando assim uma melhoria cotínua.
 
 ##### Referências:
 

@@ -81,7 +81,8 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 11) The best architectures, requirements, and designs emerge from self-organizing teams.
 
-> As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizadas. Equipes que precisam de cobranças constantes simplesmente são ociosas quando não há cobrança, ou seja, não são auto-suficientes. Criar uma cultura de responsabilidade pessoal e coletiva permite que a equipe e os indivíduos se auto-gerenciem, desligando a necessidade de uma gestão autocrática e criando um comportamento de melhoria contínua.
+> As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizadas. Equipes que precisam de cobranças constantes simplesmente são ociosas quando não há cobrança, ou seja, não são auto-suficientes. 
+  Criar uma cultura de responsabilidade pessoal e coletiva permite que a equipe e os indivíduos se auto-gerenciem, desligando a necessidade de uma gestão autocrática e criando um comportamento de melhoria contínua (Kaizen).
 
 #### 12) At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 

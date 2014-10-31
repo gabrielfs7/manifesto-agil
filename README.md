@@ -9,11 +9,13 @@ Esta é uma tradução em português com comentários a respeito do Manifesto Á
 
 #### **Individuals and interactions** *over processes and tools*: 
 
-> Indivíduos e interações tem mais valor que processos e ferramentas. A valorização das pessoas bem como o convívio saudável entre elas é fundamental para gerar um ambiente agradável, produtivo e motivador. Com um bom ambiente e a motivação certa, pessoas produzem mais e melhor. Não esqueça que ferramentas e processos são feitos por pessoas.
+> Indivíduos e interações tem mais valor que processos e ferramentas. A valorização das pessoas bem como o convívio saudável entre elas é fundamental para gerar um ambiente agradável, produtivo e motivador. 
+  Com um bom ambiente e a motivação certa, pessoas produzem mais e melhor. Não esqueça que ferramentas e processos são feitos por pessoas.
 
 #### **Working software** *over comprehensive documentation*: 
 
-> Software funcionando tem mais valor que uma documentação abrangente. Um produto que está funcionando, pode ir para o mercado, ou para a aprovação do cliente, o que acelera o recebimento da receita para a empresa. A documentação não agrega valor para o cliente e pode esperar.
+> Software funcionando tem mais valor que uma documentação abrangente. Um produto que está funcionando, pode ir para o mercado, ou para a aprovação do cliente, o que acelera o recebimento da receita para a empresa. 
+  A documentação não agrega valor para o cliente e pode esperar.
 
 #### **Customer collaboration** *over contract negotiation*: 
 
@@ -32,19 +34,22 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 1) Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
-> Nossa maior prioridade é satisfazer o cliente através da entrega antecipada e contínua de software com valor. Ou seja, entregar contínuamente software funcional e com valor agregado. Entregar rapidamente pequenos lotes de funcionalidades é mais importante para o cliente do quê receber uma grande funcionalidade após um grande período de tempo, colocando em risco do produto não atender o "time-to-market".
+> Nossa maior prioridade é satisfazer o cliente através da entrega antecipada e contínua de software com valor. Ou seja, entregar contínuamente software funcional e com valor agregado. 
+  Entregar rapidamente pequenos lotes de funcionalidades é mais importante para o cliente do quê receber uma grande funcionalidade após um grande período de tempo, colocando em risco do produto não atender o "time-to-market".
 
 #### 2) Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
-> Mudanças de requisitos são bem-vindas, mesmo no final do desenvolvimento, pois processos ágeis estão prontos para receber mudanças que geram vantagem competitiva para o cliente. É normal (e muito comum para funcionalidades, com prazos longos) receberem alterações devido às modificações do mercado, do negócio do cliente e diversos fatores externos. Reforçamos que o software deve estar pronto para mudanças.
+> Mudanças de requisitos são bem-vindas, mesmo no final do desenvolvimento, pois processos ágeis estão prontos para receber mudanças que geram vantagem competitiva para o cliente. 
+  É normal (e muito comum para funcionalidades, com prazos longos) receberem alterações devido às modificações do mercado, do negócio do cliente e diversos fatores externos. Reforçamos que o software deve estar pronto para mudanças.
 
 #### 3) Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
-> Entregar software funcionando com frequência, desde poucas semanas até poucos meses, mas de preferência no menor tempo possível. Software entregue é igual valor agregado para o cliente, e nossa missão como desenvolvedores é entregar valor para o cliente no menor tempo possível.
+> Entregar software funcionando com frequência, desde poucas semanas até poucos meses, mas de preferência no menor tempo possível. 
+  Software entregue é igual valor agregado para o cliente, e nossa missão como desenvolvedores é entregar valor para o cliente no menor tempo possível.
 
 #### 4) Business people and developers must work together daily throughout the project.
 
-> Empresários e desenvolvedores devem trabalhar juntos diariamente durante o projeto. Grande parte do retrabalho no desenvolvimento de software é ocasionado por ruídos na comunicação entre o cliente/empresário e o desenvolvedor. Isto ocorre, porque muitas empresas possuem uma pessoas que coleta os requisitos, desenha a solução e passa a execução para o desenvolvedor. Porém, o desenvolvedor acaba não percebendo o valor para o cliente, muitas vezes entregando algo que não atende a necessidade plenamente. Quanto mais íntima for a relção do empresário/cliente com o desenvolvedor, maior o conhecimento do negócio por parte do desenvolvedor e maior a percepção das limitações do desenvolvimento por parte do empresário/cliente. Esta aproximação possibilita que uma solução mais enxuta e de valor seja entregue de forma rápida.
+> Empresários e desenvolvedores devem trabalhar juntos diariamente durante o projeto. Grande parte do retrabalho no desenvolvimento de software é ocasionado por ruídos na comunicação entre o cliente/empresário e o desenvolvedor. Isto ocorre, pois muitas empresas possuem uma pessoa que coleta os requisitos, uma que desenha a solução e outra que executa. Com isso, o desenvolvedor acaba não percebendo o valor para o cliente, muitas vezes entregando algo que não atende a necessidade plenamente.   Quanto mais íntima for a relação do empresário/cliente com o desenvolvedor, maior o conhecimento do negócio por parte do desenvolvedor e maior a percepção das limitações do desenvolvimento por parte do empresário/cliente. Esta aproximação possibilita que uma solução mais enxuta e de valor seja entregue de forma rápida.
 
 #### 5) Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 
@@ -52,19 +57,23 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 6) The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
-> O método mais eficiente e eficaz de transmitir informações para uma equipe de desenvolvimento é a conversa cara-a-cara. Evite e-mails e telefonemas sempre que possível, quando asegurar que uma informação precisa ser transmitida com clareza. Utilize e-mails para formalizar/registrar informações, mas nunca confie neles como uma garantia do recebimento.
+> O método mais eficiente e eficaz de transmitir informações para uma equipe de desenvolvimento é a conversa cara-a-cara. 
+  Evite e-mails e telefonemas sempre que possível, quando asegurar que uma informação precisa ser transmitida com clareza. Utilize e-mails para formalizar/registrar informações, mas nunca confie neles como uma garantia do recebimento.
 
 #### 7) Working software is the primary measure of progress.
 
-> Software funcionando é a principal medida de progresso. Leia-se como "software escrito com qualidade" funcionando. A melhor forma de saber se nosso produto está dando certo é lançar um MVP, ou lançar pequenas features.
+> Software funcionando é a principal medida de progresso. Leia-se como "software escrito com qualidade" funcionando. 
+  A melhor forma de saber se nosso produto está dando certo é lançar um MVP, ou lançar pequenas features.
 
 #### 8) Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
-> Processos ágeis geram desenvolvimento sustentável. Os invesidores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante sempre. O processo ágil, promove a interação entre todos os envolvidos, pois as partes se tornam interdependentes.
+> Processos ágeis geram desenvolvimento sustentável. Os invesidores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante sempre. 
+  O processo ágil, promove a interação entre todos os envolvidos, pois as partes se tornam interdependentes.
 
 #### 9) Continuous attention to technical excellence and good design enhances agility.
 
-> Dedicação contínua à excelência técnica e bom design aumenta a agilidade. Quanto melhor for a arquitetura e qualidade do código, mais preparado o software estará para respoder à mudanças. Pensar em contruir um software apenas pensando que ele "está funcionando" não garante que o mesmo está preaparado para as variações de requisitos e do mercado.
+> Dedicação contínua à excelência técnica e bom design aumenta a agilidade. 
+  Quanto melhor for a arquitetura e qualidade do código, mais preparado o software estará para respoder à mudanças. Contruir um software apenas pensando que ele "está funcionando" não garante que o mesmo está preaparado para as variações de mercado/requisitos.
 
 #### 10) Simplicity--the art of maximizing the amount of work not done--is essential.
 

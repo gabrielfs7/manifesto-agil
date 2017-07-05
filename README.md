@@ -86,7 +86,7 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 12) At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-> Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz, em seguida, altera seu comportamento isto. Precisamos monitorar e descobrir foram nossas falhas e acertos, para sabermos que tipo de comportamento precisamos manter ou eliminar, buscando assim uma melhoria cotínua.
+> Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz, em seguida, altera seu comportamento isto. Precisamos monitorar e descobrir quais foram nossas falhas e acertos, para sabermos que tipo de comportamento precisamos manter ou eliminar, buscando assim uma melhoria cotínua.
 
 ##### Referências:
 

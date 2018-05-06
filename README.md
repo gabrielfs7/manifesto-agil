@@ -53,7 +53,7 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 5) Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 
-> Crie projetos com indivíduos motivados. Dê a eles o ambiente e suporte que precisam, e confie neles para entregar o trabalho. Pessoas desmotivadas fazer o que devem, não o seu melhor. Dê motivação para as pessoas e terá a melhor equipe que você pode ter!
+> Crie projetos com indivíduos motivados. Dê a eles o ambiente e suporte que precisam, e confie neles para entregar o trabalho. Pessoas desmotivadas fazem o que devem, não o seu melhor. Dê motivação para as pessoas e terá a melhor equipe que você pode ter!
 
 #### 6) The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
@@ -67,7 +67,7 @@ Junto com os valores acima, para criar uma melhor ambiente e cultura de desenvol
 
 #### 8) Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
-> Processos ágeis geram desenvolvimento sustentável. Os invesidores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante sempre. 
+> Processos ágeis geram desenvolvimento sustentável. Os investidores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante sempre. 
   O processo ágil, promove a interação entre todos os envolvidos, pois as partes se tornam interdependentes.
 
 #### 9) Continuous attention to technical excellence and good design enhances agility.
